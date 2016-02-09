@@ -3,7 +3,7 @@ NativeScript plugin for Periscope's heart animation (Android Only for now...). O
 
 ## Sample
 
-![Sample Hearts](sample.gif)
+![Sample Hearts](periscopeHearts.gif)
 
 ## Installation
 From your command prompt/termial go to your app's root folder and execute:
