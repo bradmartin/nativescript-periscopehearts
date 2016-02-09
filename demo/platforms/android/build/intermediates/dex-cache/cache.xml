@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Brad\Source\Repos\nativescript-periscopehearts\demo\platforms\android\libs\widgets.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ff3c62a8eb22f0111b882125ad1579dc6273fd90">
+        <dex dex="C:\Users\Brad\Source\Repos\nativescript-periscopehearts\demo\platforms\android\build\intermediates\pre-dexed\nativescriptperiscopehearts\debug\widgets-341234dde4de132208f3ef82375a25226a9493ed.jar" />
+    </item>
+    <item
+        jar="C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Brad\Source\Repos\nativescript-periscopehearts\demo\platforms\android\build\intermediates\pre-dexed\nativescriptperiscopehearts\debug\support-annotations-23.1.1-6fd699aeef8bbc23a3ee27b7d45abde9e3ed1a1a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Brad\Source\Repos\nativescript-periscopehearts\demo\platforms\android\libs\nativescript.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e49ee2301dce2f85edd44f634fd45ad92df9e00a">
+        <dex dex="C:\Users\Brad\Source\Repos\nativescript-periscopehearts\demo\platforms\android\build\intermediates\pre-dexed\nativescriptperiscopehearts\debug\nativescript-441968632a40b3a0ca3e780315a15dba83cdd274.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,12 @@
+﻿//default elements
+android {
+    productFlavors {
+        "nativescriptperiscopehearts" {
+            dimension "nativescriptperiscopehearts"
+        }
+    }
+}
+
+dependencies {
+     compile "tyrant:heartlayout:1.0.1"
+}

@@ -1,0 +1,12 @@
+{
+	"nativescript": {
+		"id": "org.nativescript.periscopehearts",
+		"tns-android": {
+			"version": "1.5.1"
+		}
+	},
+	"dependencies": {
+		"nativescript-periscopehearts": "file:..",
+		"tns-core-modules": "latest"
+	}
+}
