@@ -1,7 +1,7 @@
 {
   "name": "nativescript-periscopehearts",
-  "version": "1.0.0",
-  "main": "periscopehearts.js",
+  "version": "1.0.1",
+  "main": "periscopehearts",
   "description": "A NativeScript plugin for Periscope's heart animation. (Android Only)",
   "nativescript": {
     "platforms": {

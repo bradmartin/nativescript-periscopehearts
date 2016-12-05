@@ -1,25 +1,21 @@
-﻿/**
- * Contains the PeriscopeHearts class, which represents a the periscope hearts layout.
- */
+﻿import { View } from "ui/core/view";
+import { Color } from "color";
 
-declare module "periscopehearts" {
-    import * as dependencyObservable from "ui/core/dependency-observable";
-    import * as view from "ui/core/view";
+/**
+ * Represents a Periscope Hearts component.
+ */
+export declare class PeriscopeHearts extends View {
 
     /**
-     * Represents a Periscope Hearts component.
+     * Gets the native [android widget](https://github.com/tyrantgit/HeartLayout) that represents the user interface for this component. Valid only when running on Android OS.
      */
-    export class PeriscopeHearts extends view.View {        
+    android: any /* tyrantgit.widget.HeartLayout */;
 
-        /**
-         * String value used when hooking to addHeart event.
-         */
-        public static addHeartEvent: string;
+    /**
+     * Adds a heart into the layout.
+     * @param {string} - The color of the heart. 
+     */
+    addHeart(string: Color): void;
 
-        /**
-         * Gets the native [android widget](https://github.com/tyrantgit/HeartLayout) that represents the user interface for this component. Valid only when running on Android OS.
-         */
-        android: any /* tyrantgit.widget.HeartLayout */;
-    }
 
 }

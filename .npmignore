@@ -1,8 +1,14 @@
 ﻿# generated files
 .vs
 .vs/
-nativescript-periscopehearts.sln
-.sln
-*.sln
+.vscode/
+.gitattributes
 demo/
 sample.gif
+screens/
+*.png
+*.log
+*.ts
+!index.d.ts
+*.gif
+persicopeHearts.gif

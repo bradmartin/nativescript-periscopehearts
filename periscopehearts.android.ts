@@ -1,9 +1,9 @@
-﻿import color = require("color");
-import view = require("ui/core/view");
+﻿import { Color } from "color";
+import { View } from "ui/core/view";
 
-global.moduleMerge(exports);
+declare var tyrantgit: any;
 
-export class PeriscopeHearts extends view.View {
+export class PeriscopeHearts extends View {
     private _android: tyrantgit.widget.HeartLayout;
 
     get android(): tyrantgit.widget.HeartLayout {
@@ -15,7 +15,7 @@ export class PeriscopeHearts extends view.View {
     }
 
     public addHeart(userColor: any) {
-        this._android.addHeart(new color.Color(userColor).android);
+        this._android.addHeart(new Color(userColor).android);
     }
 
 }
