@@ -1,5 +1,8 @@
 [![npm](https://img.shields.io/npm/v/nativescript-periscopehearts.svg)](https://www.npmjs.com/package/nativescript-periscopehearts)
 [![npm](https://img.shields.io/npm/dt/nativescript-periscopehearts.svg?label=npm%20downloads)](https://www.npmjs.com/package/nativescript-periscopehearts)
+[![GitHub stars](https://img.shields.io/github/stars/bradmartin/nativescript-periscopehearts.svg)](https://github.com/bradmartin/nativescript-periscopehearts/stargazers)
+[![PayPal Donate](https://img.shields.io/badge/Donate-PayPal-ff4081.svg)](https://www.paypal.me/bradwayne88)
+
 
 # NativeScript-PeriscopeHearts :two_hearts:
 NativeScript plugin for Periscope's heart animation (Android Only for now...). Open source library used: [tyrantgit/HeartLayout](https://github.com/tyrantgit/HeartLayout)
